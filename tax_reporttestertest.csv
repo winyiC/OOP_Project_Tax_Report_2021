@@ -1,0 +1,6 @@
+user,user1
+tax year,2021
+user infor,"{'First Name': 'tester', 'Last Name': 'test', 'Mailing address': 'test@test.com', 'Postal code': 'L2L3L3', 'SIN': ""['2', '3', '1', '4', '2', '9', '8', '9', '3']"", 'Date of birth': '1990-12-01', 'Date of death': '', 'Marital_status': 'Married', 'Language': 'Engilish'}"
+Total income,"$38,700.00"
+Taxable income,"$38,400.00"
+Federal tax on taxable income,"$5,760.00"
